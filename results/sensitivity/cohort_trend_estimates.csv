@@ -1,0 +1,10 @@
+"outcome","spec","estimate","lo","hi","n","n_pretrend","na_reps"
+"ktrial_direct","pretrend_extrapolated",9.127,-11.707,30.874,1847,792,0
+"ktrial_direct","pretrend_slope",2.408,-3.027,7.404,1847,792,0
+"ktrial_direct","original",18.566,11.944,25.471,1847,792,0
+"primary","pretrend_extrapolated",-17.369,-38.475,5.549,1847,792,0
+"primary","pretrend_slope",3.728,-1.422,8.387,1847,792,0
+"primary","original",-2.756,-12.12,6.468,1847,792,0
+"k_minus_new","pretrend_extrapolated",26.496,-6.175,59.156,1847,792,0
+"k_minus_new","pretrend_slope",-1.32,-8.629,6.099,1847,792,0
+"k_minus_new","original",21.322,11.128,31.014,1847,792,0

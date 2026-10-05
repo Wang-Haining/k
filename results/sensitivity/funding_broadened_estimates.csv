@@ -1,0 +1,7 @@
+"mechanism","outcome","spec","estimate","lo","hi","n","n_pre","n_post","n_institutions","na_reps"
+"K23","R01nih_R34_trialgrant_5y","historical DID; year FE + IC",-0.67,-8.07,6.64,1847,1010,837,185,0
+"K08","R01nih_R34_trialgrant_5y","historical DID; year FE + IC",14.92,-12.17,45.55,1515,833,682,138,0
+"K23","R01nih_R34_trialgrant_5y","contemporaneous RD; unadjusted",-3.54,-10.1,2.66,825,NA,NA,135,0
+"K23","R01nih_R34_trialgrant_5y","contemporaneous RD; year FE + IC",-2.47,-9.2,4.35,825,NA,NA,135,0
+"K08","R01nih_R34_trialgrant_5y","contemporaneous RD; unadjusted",9.94,-5.86,26.53,675,NA,NA,103,0
+"K08","R01nih_R34_trialgrant_5y","contemporaneous RD; year FE + IC",8.68,-7.53,25.67,675,NA,NA,103,0

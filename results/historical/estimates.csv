@@ -1,0 +1,27 @@
+"mechanism","estimand","outcome","sample","estimate","lo","hi","n","na_reps"
+"K23","E0 intent share post-pre","intent","all",3.3,-0.9,7.5,1847,0
+"K23","E1 portfolio level change (trend + IC)","primary","all",0.2,-5.7,6.3,1847,0
+"K23","E2 DID intent x post (year FE + IC)","primary","all",-2.8,-11.7,6,1847,0
+"K23","E1 portfolio level change (trend + IC)","R01","all",-9.7,-15.4,-2.2,1847,0
+"K23","E2 DID intent x post (year FE + IC)","R01","all",-0.5,-7.8,6.1,1847,0
+"K23","E3 FY2018 intent awardees post vs pre FOA","primary","K start 2018, intent=1",-4.6,-36.4,26.2,88,0
+"K23","E3 FY2018 DID intent x post","primary","K start 2018",0.3,-33.8,32.4,251,0
+"K23","E2 DID","primary_fdaaa","FDAAA-like trials only",-0.7,-7,5.5,1847,0
+"K23","E2 DID","primary_4y","4-year window",-6,-14,2.1,1847,0
+"K23","E2 DID","primary","excluding NCI",-3.1,-12.8,6.3,1832,0
+"K23","E2 DID","primary","ICs present in both periods",-2.9,-11.8,6.4,1806,0
+"K23","Placebo DID intent x (2016-17 vs 2014-15), pre only","primary","pre-policy 2014-2017",4.6,-7.3,15.2,792,0
+"K23","Placebo level change 2016, pre only","primary","pre-policy 2014-2017",5.4,-7.5,18.6,792,0
+"K08","E0 intent share post-pre","intent","all",3.2,1.3,5.2,1515,0
+"K08","E1 portfolio level change (trend + IC)","primary","all",1.4,-4.4,7.3,1515,0
+"K08","E2 DID intent x post (year FE + IC)","primary","all",18.8,-3.2,41.9,1515,0
+"K08","E1 portfolio level change (trend + IC)","R01","all",3.5,-4.6,11.1,1515,0
+"K08","E2 DID intent x post (year FE + IC)","R01","all",11.1,-14,35.9,1515,0
+"K08","E3 FY2018 intent awardees post vs pre FOA","primary","K start 2018, intent=1",33.3,0,100,6,349
+"K08","E3 FY2018 DID intent x post","primary","K start 2018",54.3,-3.2,100.5,193,361
+"K08","E2 DID","primary_fdaaa","FDAAA-like trials only",11.6,1,23.7,1515,0
+"K08","E2 DID","primary_4y","4-year window",25.3,-3.9,46.8,1515,0
+"K08","E2 DID","primary","excluding NCI",32.1,1.8,72.2,1254,0
+"K08","E2 DID","primary","ICs present in both periods",18.8,-5.8,40,1513,0
+"K08","Placebo DID intent x (2016-17 vs 2014-15), pre only","primary","pre-policy 2014-2017",-29.6,-103.7,20.1,674,43
+"K08","Placebo level change 2016, pre only","primary","pre-policy 2014-2017",3.9,-6,13.6,674,0

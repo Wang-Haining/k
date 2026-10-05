@@ -1,0 +1,7 @@
+"mechanism","outcome","spec","estimate","lo","hi","n","n_pre","n_post","n_institutions","na_reps"
+"K23","k_excl_covid","five-year outcomes excluding trial starts in 2020-2021; all awardees retained",7.73,0.63,14.39,1847,1010,837,185,0
+"K23","new_excl_covid","five-year outcomes excluding trial starts in 2020-2021; all awardees retained",0.72,-6.82,7.87,1847,1010,837,185,0
+"K23","covid_diff","five-year outcomes excluding trial starts in 2020-2021; all awardees retained",7.01,-1.91,16.89,1847,1010,837,185,0
+"K08","k_excl_covid","five-year outcomes excluding trial starts in 2020-2021; all awardees retained",9.5,-17.85,39.42,1515,833,682,138,0
+"K08","new_excl_covid","five-year outcomes excluding trial starts in 2020-2021; all awardees retained",13.35,-11.71,35.9,1515,833,682,138,0
+"K08","covid_diff","five-year outcomes excluding trial starts in 2020-2021; all awardees retained",-3.85,-40.46,35.13,1515,833,682,138,0

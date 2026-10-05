@@ -1,0 +1,5 @@
+"analysis","mechanism","outcome","spec","estimate","lo","hi","n","na_reps","n_awardees"
+"historical hazard DID (per person-year)","K23","first new trial","+ calendar x intent FE",-4.4,-8,-0.4,8379,0,1847
+"historical hazard DID (per person-year)","K23","first new trial","excluding 2020-2021 person-years",0.5,-2,3.1,6167,0,1812
+"historical hazard DID (per person-year)","K08","first new trial","+ calendar x intent FE",7.7,-1.1,17.1,7253,0,1515
+"historical hazard DID (per person-year)","K08","first new trial","excluding 2020-2021 person-years",2.1,-6.9,9.7,5288,0,1501

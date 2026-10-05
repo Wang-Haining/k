@@ -1,0 +1,4 @@
+stratum,n_k_trials,n_due,n_terminated_due,n_within12,within12_pct,n_ever_submitted,ever_submitted_pct,n_unknown_pcd_passed,n_missing_pcd
+pre_early,183,165,13,42,25.45,93,56.36,8,0
+pre_legacy,46,40,2,18,45.0,35,87.5,2,0
+post,289,170,10,79,46.47,136,80.0,11,0

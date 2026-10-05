@@ -1,0 +1,9 @@
+"mechanism","outcome","spec","estimate","lo","hi","n","n_pre","n_post","n_institutions","na_reps"
+"K23","primary","same complete seven-year sample; original registration rule",-5.03,-17.23,5.26,1274,1010,264,158,0
+"K23","new_trial_7y","same complete seven-year sample; original registration rule",-2.19,-15.19,9.7,1274,1010,264,158,0
+"K23","new_5y_registered","same complete seven-year sample; first submitted by K start + horizon",-6.27,-18.19,5.22,1274,1010,264,158,0
+"K23","new_7y_registered","same complete seven-year sample; first submitted by K start + horizon",-3.41,-16.65,8.88,1274,1010,264,158,0
+"K08","primary","same complete seven-year sample; original registration rule",13.84,-15.99,40.39,1083,833,250,124,0
+"K08","new_trial_7y","same complete seven-year sample; original registration rule",10.37,-21.17,41.15,1083,833,250,124,0
+"K08","new_5y_registered","same complete seven-year sample; first submitted by K start + horizon",13.84,-15.63,42.68,1083,833,250,124,0
+"K08","new_7y_registered","same complete seven-year sample; first submitted by K start + horizon",10.37,-21.33,38.84,1083,833,250,124,0

@@ -1,0 +1,13 @@
+analysis,mechanism,cell,n_people,n_trials,median_enrollment,pct_randomized,pct_pilot_titled,pct_enrollment_ge100,n_completed_due,pct_results_posted_among_due
+main,K23,Required,358,200,50.0,68.0,14.0,35.5,90,51.1
+main,K23,Not Allowed,467,124,52.0,73.4,16.9,38.7,46,58.7
+historical,K23,pre_policy|intent1,389,216,52.0,67.1,19.0,34.7,163,49.1
+historical,K23,pre_policy|intent0,636,173,36,64.2,12.1,26.0,98,42.9
+historical,K23,post_policy|intent1,353,186,60.0,68.3,12.9,39.2,87,51.7
+historical,K23,post_policy|intent0,492,128,42.0,70.3,17.2,32.8,44,56.8
+main,K08,Required,41,55,75,58.2,14.5,45.5,24,54.2
+main,K08,Not Allowed,635,62,21.0,45.2,16.1,19.4,12,41.7
+historical,K08,pre_policy|intent1,15,3,40,66.7,33.3,33.3,1,0.0
+historical,K08,pre_policy|intent0,820,101,29,46.5,14.9,17.8,41,63.4
+historical,K08,post_policy|intent1,41,48,114.0,68.8,14.6,52.1,25,48.0
+historical,K08,post_policy|intent0,641,67,20,40.3,19.4,14.9,11,54.5

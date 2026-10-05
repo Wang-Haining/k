@@ -1,0 +1,11 @@
+mechanism,n_required,n_without_k_trial,category,n
+K23,358,85,no K trial found in the registry,39
+K23,358,85,"K trial registered, started before K start",22
+K23,358,85,no K trial found; led another new trial,14
+K23,358,85,"K-linked record, awardee not identified",7
+K23,358,85,"K trial registered as PI, judged basic experimental",2
+K23,358,85,"K trial registered, awardee not listed as PI",1
+K08,40,14,"K trial registered, started before K start",5
+K08,40,14,no K trial found; led another new trial,4
+K08,40,14,no K trial found in the registry,3
+K08,40,14,"K-linked record, awardee not identified",2

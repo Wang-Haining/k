@@ -1,0 +1,71 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "identity": {
+      "type": "string",
+      "enum": [
+        "same_person",
+        "different_person",
+        "unclear",
+        "not_named"
+      ]
+    },
+    "role": {
+      "type": "string",
+      "enum": [
+        "overall_PI",
+        "responsible_party_PI",
+        "sponsor_investigator",
+        "protocol_named_PI",
+        "nonqualifying_role",
+        "unclear",
+        "not_named"
+      ]
+    },
+    "role_source": {
+      "type": "string",
+      "enum": [
+        "current_registry",
+        "historical_snapshot",
+        "protocol_excerpt",
+        "none"
+      ]
+    },
+    "scope": {
+      "type": "string",
+      "enum": [
+        "applied",
+        "BESH_only",
+        "no_human_intervention",
+        "unclear"
+      ]
+    },
+    "k_relationship": {
+      "type": "string",
+      "enum": [
+        "original_K",
+        "new_protocol",
+        "unclear",
+        "not_applicable"
+      ]
+    },
+    "evidence": {
+      "type": "string",
+      "maxLength": 300
+    },
+    "reason": {
+      "type": "string",
+      "maxLength": 400
+    }
+  },
+  "required": [
+    "identity",
+    "role",
+    "role_source",
+    "scope",
+    "k_relationship",
+    "evidence",
+    "reason"
+  ]
+}

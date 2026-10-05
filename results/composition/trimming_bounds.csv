@@ -1,0 +1,5 @@
+"mechanism","outcome","bound","trimmed_share","estimate","lo","hi"
+"K23","primary","lower",0.102,-11.2,-24.1,-0.1
+"K23","primary","upper",0.102,0,-9.5,11
+"K23","ktrial_direct","lower",0.102,14.7,5,23
+"K23","ktrial_direct","upper",0.102,26,16.3,37.4

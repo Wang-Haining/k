@@ -1,0 +1,10 @@
+stratum,pi_of_record,n_awardees,n_with_any_linked,n_with_category,share_pct,candidate_records
+pre_early,awardee,301,141,134,44.52,149
+pre_early,other_person,301,141,1,0.33,1
+pre_early,no_pi_named,301,141,7,2.33,7
+pre_legacy,awardee,74,42,38,51.35,40
+pre_legacy,other_person,74,42,2,2.7,2
+pre_legacy,no_pi_named,74,42,2,2.7,2
+post,awardee,346,236,221,63.87,248
+post,other_person,346,236,4,1.16,4
+post,no_pi_named,346,236,16,4.62,16

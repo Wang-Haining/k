@@ -1,0 +1,5 @@
+"mechanism","group","n","pct_k_trial_registered_as_PI","n_new_trial_PIs","pct_new_trial_PIs_with_NIH_funded_trial","pct_new_trial_PIs_with_industry_trial","pct_informative","pct_R01eq"
+"K23","Required",358,76.3,121,44.6,7.4,14,17.6
+"K23","Not Allowed",467,2.1,91,29.7,14.3,9.2,24
+"K08","Required",40,65,23,47.8,30.4,20,30
+"K08","Not Allowed",635,0.8,45,22.2,28.9,1.6,25.4

@@ -1,0 +1,4 @@
+module,field,comparison,n_total,n_compared,n_excluded,percent_agreement,kappa,status
+intent,intent,rater_a_vs_rater_b,100,100,0,94.0,0.89010989010989,ok
+boundary,k_relationship,rater_a_vs_rater_b,60,60,0,96.66666666666667,0.9300699300699301,ok
+lineage,lineage,rater_a_vs_rater_b,60,60,0,81.66666666666667,0.6973865199449794,ok
