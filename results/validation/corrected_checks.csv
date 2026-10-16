@@ -1,0 +1,16 @@
+"check","quantity","estimate","lo","hi","n","reps"
+"Full sample","K-trial DID",13.7,5.7,21.2,1847,2000
+"Full sample","new-trial DID",-3.8,-14.4,6.9,1847,2000
+"Full sample","K-trial minus new-trial DID",17.4,5.3,29.7,1847,2000
+"Legacy awards as comparator","K-trial DID",13.5,-0.3,27.3,1055,2000
+"Legacy awards as comparator","new-trial DID",-4.6,-19.2,10.8,1055,2000
+"Legacy awards as comparator","K-trial minus new-trial DID",18.1,-1,34.6,1055,2000
+"Fiscal years 2018-2019 in both regimes","K-trial DID",12.9,-3.9,29.1,494,2000
+"Fiscal years 2018-2019 in both regimes","new-trial DID",-7.6,-25.6,9.6,494,2000
+"Fiscal years 2018-2019 in both regimes","K-trial minus new-trial DID",20.5,-0.5,41.8,494,2000
+"Extrapolated early-cohort trend","K-trial DID",4.1,-17.7,26.8,1847,2000
+"Extrapolated early-cohort trend","new-trial DID",-16.8,-39.3,6.1,1847,2000
+"Extrapolated early-cohort trend","K-trial minus new-trial DID",21,-11.5,55.4,1847,2000
+"Differential early-cohort slope (per year)","K-trial DID",2.4,-3,7.9,792,2000
+"Differential early-cohort slope (per year)","new-trial DID",3.3,-1.8,8.3,792,2000
+"Differential early-cohort slope (per year)","K-trial minus new-trial DID",-0.9,-8.7,6.3,792,2000

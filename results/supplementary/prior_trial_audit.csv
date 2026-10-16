@@ -1,0 +1,5 @@
+mechanism,group,n,prior_trial_PI,prior_trial_is_K_trial,prior_trial_only_K_trial,prior_trial_PI_excluding_K_trial_pct
+K23,Required,358,104,41,29,20.9
+K23,Not Allowed,467,47,4,2,9.6
+K08,Required,40,18,9,4,35.0
+K08,Not Allowed,635,31,4,4,4.3

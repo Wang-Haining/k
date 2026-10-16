@@ -1,0 +1,5 @@
+{"type": "object", "additionalProperties": false,
+ "properties": {"research_type": {"type": "string", "enum": ["own_trial_planned", "mentor_led_trial_explicit", "other_research", "unclear"]},
+                "human_intervention_scope": {"type": "string", "enum": ["applied", "BESH_only", "none", "unclear"]},
+                "evidence": {"type": "string", "maxLength": 300}, "reason": {"type": "string", "maxLength": 300}},
+ "required": ["research_type", "human_intervention_scope", "evidence", "reason"]}

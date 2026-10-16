@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.ruff_cache/
+.Rhistory
+.DS_Store
+data/*
+!data/README.md
+!data/public/
+results/public/
+figures/output/
+*.egg-info/
+build/

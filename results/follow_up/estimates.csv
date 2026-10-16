@@ -1,0 +1,7 @@
+"analysis","mechanism","outcome","spec","estimate","lo","hi","se","mde80","n","na_reps"
+"7-year sample DID","K23","primary (5 years)","complete 7-year follow-up",-5,-17,5.8,5.73,16.1,1274,0
+"7-year sample DID","K23","new_trial_7y","complete 7-year follow-up",-2.2,-14.2,9.7,6.05,17,1274,0
+"7-year sample DID","K23","new_trial_7y_timely","complete 7-year follow-up; trials registered within 12 months of start",-2.1,-14.7,9.7,6.22,17.4,1274,0
+"7-year sample DID","K08","primary (5 years)","complete 7-year follow-up",13.8,-15.4,42.1,14.86,41.6,1083,0
+"7-year sample DID","K08","new_trial_7y","complete 7-year follow-up",10.4,-21.7,40,15.75,44.1,1083,1
+"7-year sample DID","K08","new_trial_7y_timely","complete 7-year follow-up; trials registered within 12 months of start",10.3,-19.3,42.1,16.04,44.9,1083,0

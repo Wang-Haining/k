@@ -1,0 +1,51 @@
+"analysis","mechanism","outcome","spec","estimate","lo","hi","se","mde80","n","na_reps"
+"historical DID","K23","primary","all eligibility",-2.3,-11.3,6.5,4.63,13,1870,0
+"historical DID","K23","primary","year FE + IC",-2.8,-11.6,7,4.76,13.3,1847,0
+"historical DID","K23","secondary","year FE + IC",10.8,2,19.5,4.45,12.5,1847,0
+"historical DID","K23","ktrial_direct","year FE + IC",18.6,11.6,24.6,3.28,9.2,1847,0
+"historical DID","K23","informative_strict","year FE + IC",0.7,-4.2,5.5,2.58,7.2,1847,0
+"historical DID","K23","primary_nihdef","year FE + IC",-2.2,-11.3,6.2,4.59,12.8,1847,0
+"historical DID","K23","primary_late","year FE + IC",-1.4,-8.4,6.8,3.83,10.7,1847,0
+"historical DID","K23","nonpi_multisite","year FE + IC",-0.8,-2.3,0.6,0.74,2.1,1847,0
+"historical DID","K23","R01eq_5y","year FE + IC",0.2,-7.7,6.7,3.55,9.9,1847,0
+"historical DID","K23","R01eq_or_trialgrant_5y","year FE + IC",-0.2,-7.8,6.7,3.74,10.5,1847,0
+"historical DID","K23","ktrial_direct","pre-policy limited to 2018-19 legacy-FOA awards (submitted after NOT-OD-16-149)",18.2,3.8,32.1,7.22,20.2,1055,0
+"historical DID","K23","ktrial_direct","pre-policy limited to K start >= 2017-09-01",16.4,3.2,29.7,6.67,18.7,1103,0
+"historical DID","K23","ktrial_direct_fdaaa","drug/biologic/device trials only",2.8,-2.9,8.1,2.84,7.9,1847,0
+"historical placebo DID","K23","ktrial_direct","2016-17 vs 2014-15, pre-policy only",7.7,-1.7,19.2,5.39,15.1,792,0
+"historical E3 FY2018","K23","ktrial_direct","intent awardees, new vs legacy FOA",25.7,-9,54.3,15.89,44.5,88,0
+"historical DID","K23","primary","awardees with no registered trial before K",-1.1,-10.1,8.1,4.58,12.8,1535,0
+"main RD","K23","ktrial_direct","unadjusted",74.1,69.1,79.1,2.61,7.3,825,0
+"main RD","K23","informative_strict","unadjusted",2.3,-1,5.8,1.77,5,825,0
+"main RD","K23","primary_nihdef","unadjusted",14.6,7.8,20.9,3.38,9.5,825,0
+"main RD","K23","primary_late","unadjusted",12.2,7.3,17.2,2.65,7.4,825,0
+"main RD","K23","nonpi_multisite","unadjusted",0.5,-1.2,2.3,0.88,2.5,825,0
+"main RD","K23","R01eq_5y","unadjusted",-6.2,-11.7,-1,2.78,7.8,825,0
+"main RD","K23","R01eq_or_trialgrant_5y","unadjusted",-4.8,-11,1.1,3.22,9,825,0
+"main RD","K23","primary_main","awardees with no registered trial before K",11,4.6,17.1,3.25,9.1,674,0
+"main RD","K23","R01eq_7y","K start 2018-2019 (7-year follow-up complete)",-2.2,-15.7,11.3,6.62,18.5,257,0
+"historical DID","K08","primary","all eligibility",20.1,-3.7,40.7,11.05,31,1517,0
+"historical DID","K08","primary","year FE + IC",18.8,-4,40,11.71,32.8,1515,0
+"historical DID","K08","secondary","year FE + IC",5,-24.2,41.4,16.44,46,1515,0
+"historical DID","K08","ktrial_direct","year FE + IC",2.1,-29.5,45.7,18.23,51,1515,0
+"historical DID","K08","informative_strict","year FE + IC",16.4,4.9,29.6,6.5,18.2,1515,0
+"historical DID","K08","primary_nihdef","year FE + IC",20.5,-2,42.3,11.44,32,1515,0
+"historical DID","K08","primary_late","year FE + IC",9.3,-10,28.7,10.16,28.4,1515,0
+"historical DID","K08","nonpi_multisite","year FE + IC",0,-0.6,0.7,0.31,0.9,1515,0
+"historical DID","K08","R01eq_5y","year FE + IC",13,-12.6,38.6,13.23,37.1,1515,1
+"historical DID","K08","R01eq_or_trialgrant_5y","year FE + IC",13.1,-12.4,39.3,13.2,37,1515,0
+"historical DID","K08","ktrial_direct","pre-policy limited to 2018-19 legacy-FOA awards (submitted after NOT-OD-16-149)",-21.2,-55.8,24.8,21.6,60.5,841,5
+"historical DID","K08","ktrial_direct","pre-policy limited to K start >= 2017-09-01",-24.7,-54.8,26.7,20.17,56.5,892,11
+"historical DID","K08","ktrial_direct_fdaaa","drug/biologic/device trials only",0.1,-17.1,12.2,8,22.4,1515,0
+"historical placebo DID","K08","ktrial_direct","2016-17 vs 2014-15, pre-policy only",-31.4,-99,30.7,32.94,92.2,674,50
+"historical E3 FY2018","K08","ktrial_direct","intent awardees, new vs legacy FOA",-66.7,-100,0,32.4,90.7,6,323
+"historical DID","K08","primary","awardees with no registered trial before K",23.7,5.7,45.6,10.24,28.7,1431,0
+"main RD","K08","ktrial_direct","unadjusted",64.2,52.1,77.1,6.53,18.3,675,0
+"main RD","K08","informative_strict","unadjusted",16.4,4.7,31.6,6.8,19,675,0
+"main RD","K08","primary_nihdef","unadjusted",50.1,37.1,66.1,7.65,21.4,675,0
+"main RD","K08","primary_late","unadjusted",26.2,14.5,38.3,6.14,17.2,675,0
+"main RD","K08","nonpi_multisite","unadjusted",-1.6,-2.5,-0.7,0.45,1.3,675,0
+"main RD","K08","R01eq_5y","unadjusted",5.1,-10,20.4,7.95,22.3,675,0
+"main RD","K08","R01eq_or_trialgrant_5y","unadjusted",4.3,-11.3,21.2,8.57,24,675,0
+"main RD","K08","primary_main","awardees with no registered trial before K",44.2,21.5,69.8,11.86,33.2,626,0
+"main RD","K08","R01eq_7y","K start 2018-2019 (7-year follow-up complete)",12.9,-15.8,39.5,14.14,39.6,247,0

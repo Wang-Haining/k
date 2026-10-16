@@ -1,0 +1,5 @@
+mechanism,period,n_k_trials,median_enrollment,enrollment_ge100_pct,randomized_pct,multisite_ge3_pct,phase2plus_pct,completed_pct,terminated_or_withdrawn_pct,ongoing_pct,n_completed_due,results_posted_among_due_pct,registered_within_12mo_of_start_pct
+K23,pre_policy,204,60.0,18.1,77.9,3.9,16.2,84.3,9.8,1.5,172,61.0,98.0
+K23,post_policy,253,58,24.1,68.0,5.5,13.8,66.0,6.3,22.5,139,81.3,99.2
+K08,pre_policy,8,38.5,25.0,75.0,12.5,12.5,75.0,12.5,0.0,6,100.0,100.0
+K08,post_policy,24,65.0,33.3,58.3,8.3,20.8,66.7,4.2,29.2,14,71.4,95.8

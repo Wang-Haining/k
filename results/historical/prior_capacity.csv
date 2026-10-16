@@ -1,0 +1,7 @@
+"analysis","mechanism","outcome","spec","estimate","lo","hi","se","mde80","n","na_reps"
+"capacity triple difference","K23","primary","intent x post x high-capacity institution",1.8,-14.9,21.2,9.23,25.8,1847,0
+"DID by institutional capacity","K23","primary","other institutions",-2.6,-14.6,7.3,5.53,15.5,925,0
+"DID by institutional capacity","K23","primary","high-capacity institutions",-0.9,-15.3,14.1,7.28,20.4,922,0
+"capacity triple difference","K23","ktrial_direct","intent x post x high-capacity institution",4.5,-9.2,17.8,6.84,19.1,1847,0
+"DID by institutional capacity","K23","ktrial_direct","other institutions",16.6,5.7,25.9,5.05,14.2,925,0
+"DID by institutional capacity","K23","ktrial_direct","high-capacity institutions",20.9,10.7,29.9,5.12,14.3,922,0

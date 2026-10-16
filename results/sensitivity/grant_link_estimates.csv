@@ -1,0 +1,7 @@
+"mechanism","outcome","spec","estimate","lo","hi","n","n_pre","n_post","n_institutions","na_reps"
+"K23","k_id_field","grant-link component; year FE + IC",17.78,10.76,24.84,1847,1010,837,185,0
+"K23","k_text","grant-link component; year FE + IC",0,0,0,1847,1010,837,185,0
+"K23","k_none","grant-link component; year FE + IC",0.81,-4.19,5.97,1847,1010,837,185,0
+"K23","k_no_text","free-text links ignored; K/new judgment otherwise; year FE + IC",18.57,11.97,24.89,1847,1010,837,185,0
+"K23","new_no_text","free-text links ignored; K/new judgment otherwise; year FE + IC",-2.76,-11.6,6.46,1847,1010,837,185,0
+"K23","no_text_diff","free-text links ignored; K/new judgment otherwise; year FE + IC",21.32,11.49,31.12,1847,1010,837,185,0

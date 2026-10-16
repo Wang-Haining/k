@@ -1,0 +1,11 @@
+"mechanism","outcome","spec","estimate","lo","hi","n","n_pre","n_post","n_institutions","na_reps"
+"K23","within12","trial share pre_early",25.45,17.5,33.15,165,NA,NA,63,0
+"K23","ever_submitted","trial share pre_early",56.36,47.33,65.13,165,NA,NA,63,0
+"K23","within12","trial share pre_legacy",45,30.77,62.16,40,NA,NA,32,0
+"K23","ever_submitted","trial share pre_legacy",87.5,76.92,97.44,40,NA,NA,32,0
+"K23","within12","trial share post",46.47,38.06,53.59,170,NA,NA,65,0
+"K23","ever_submitted","trial share post",80,73.15,85.79,170,NA,NA,65,0
+"K23","within12","post minus pre_early",21.02,11.34,30.88,335,NA,NA,86,0
+"K23","ever_submitted","post minus pre_early",23.64,14.08,33.87,335,NA,NA,86,0
+"K23","within12","post minus pre_legacy",1.47,-17.06,18.71,210,NA,NA,70,0
+"K23","ever_submitted","post minus pre_legacy",-7.5,-18.73,5.99,210,NA,NA,70,0

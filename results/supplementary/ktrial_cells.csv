@@ -1,0 +1,9 @@
+mechanism,period,intent,n,ktrial_direct,ktrial_any_start,ktrial_grant_linked,ktrial_judged_unlinked,any_trial,new_trial,new_trial_without_ktrial
+K23,pre_policy,1,375,54.4,61.6,41.3,16.3,69.9,37.6,15.5
+K23,pre_policy,0,635,4.1,5.0,2.7,1.6,20.9,19.1,16.9
+K23,post_policy,1,346,73.1,78.0,59.2,17.3,81.5,33.5,8.4
+K23,post_policy,0,491,5.1,6.3,3.3,2.0,23.0,18.7,17.9
+K08,pre_policy,1,14,57.1,71.4,28.6,28.6,64.3,21.4,7.1
+K08,pre_policy,0,819,0.4,0.5,0.1,0.2,9.9,9.9,9.5
+K08,post_policy,1,41,58.5,65.9,43.9,14.6,70.7,41.5,12.2
+K08,post_policy,0,641,0.8,1.7,0.3,0.5,8.0,7.6,7.2

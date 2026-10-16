@@ -1,0 +1,10 @@
+quantity,comparison,post_pct,ref_pct,difference,lo,hi
+new_trial,post minus pre_early,33.5,36.5,-3.0,-10.9,5.5
+new_trial,post minus pre_legacy,33.5,41.9,-8.4,-18.3,0.6
+developed_new_trial,post minus pre_early,20.2,22.6,-2.4,-8.5,4.1
+developed_new_trial,post minus pre_legacy,20.2,27.0,-6.8,-17.1,2.3
+other_new_trial_only,post minus pre_early,13.3,14.0,-0.7,-6.1,4.4
+other_new_trial_only,post minus pre_legacy,13.3,14.9,-1.6,-9.2,5.7
+share of new trials developed from the K work,post,,54.6,,,n=183
+share of new trials developed from the K work,pre_early,,54.4,,,n=158
+share of new trials developed from the K work,pre_legacy,,53.7,,,n=54

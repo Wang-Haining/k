@@ -1,0 +1,5 @@
+"analysis","mechanism","outcome","spec","estimate","lo","hi","se","mde80","n","na_reps"
+"K-trial results reporting, post minus stratum","K23","ktrial_due_results","pre_early",25,13.5,35.7,5.85,16.4,280,0
+"K-trial results reporting, post minus stratum","K23","ktrial_due_results","pre_legacy",-7.1,-19.2,5.7,6.41,18,175,0
+"K-trial results reporting, post minus stratum","K23","ktrial_due_results12","pre_early",20.7,9.1,31.6,5.81,16.3,280,0
+"K-trial results reporting, post minus stratum","K23","ktrial_due_results12","pre_legacy",-1.4,-20.6,16.9,9.66,27,175,0
