@@ -1,0 +1,8 @@
+module,field,comparison,n_total,n_compared,n_excluded,percent_agreement,kappa,status
+dossier_all_double_rated,led_K_trial,rater_a_vs_rater_b,110,110,0,93.63636363636364,0.8742651861528414,ok
+dossier_all_double_rated,led_new_trial,rater_a_vs_rater_b,110,110,0,98.18181818181819,0.9622641509433962,ok
+dossier_trial_all_double_rated,identity,rater_a_vs_rater_b,283,283,0,94.34628975265018,0.8977185452902643,ok
+dossier_trial_all_double_rated,role,rater_a_vs_rater_b,283,283,0,100.0,1.0,ok
+dossier_trial_all_double_rated,scope,rater_a_vs_rater_b,283,283,0,93.63957597173145,0.8288076354348702,ok
+dossier_trial_all_double_rated,start_in_window,rater_a_vs_rater_b,283,283,0,99.64664310954063,0.9505504106237984,ok
+dossier_trial_all_double_rated,k_relationship,rater_a_vs_rater_b,283,283,0,97.87985865724382,0.9662613257033855,ok

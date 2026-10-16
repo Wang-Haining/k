@@ -1,0 +1,42 @@
+[project]
+name = "k-trial-pathways"
+version = "1.0.0"
+description = "Reproduction of trial leadership and funding outcomes after NIH K08 and K23 awards"
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = [
+  "matplotlib==3.11.2",
+  "Pillow==12.3.0",
+  "openpyxl==3.1.5",
+  "pypdf==6.19.0",
+]
+
+[project.optional-dependencies]
+dev = ["ruff==0.16.4"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM"]
+
+[tool.ruff.format]
+quote-style = "double"
+
+[build-system]
+requires = ["setuptools==82.0.1"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["config"]
+
+[tool.setuptools.packages.find]
+include = ["analysis*", "outcomes*", "validation*", "measure*", "figures*", "construct*"]
+exclude = ["figures.output*"]
+
+[tool.setuptools.package-data]
+measure = ["schemas/*.json", "prompts/*.md", "*.sbatch"]
+validation = ["codebook.md"]
+
+construct = ["*.js"]

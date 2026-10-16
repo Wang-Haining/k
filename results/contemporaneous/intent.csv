@@ -1,0 +1,5 @@
+mechanism,group,n_intent,n,pct_intent
+K08,Not Allowed,6,635,0.9
+K08,Required,35,41,85.4
+K23,Not Allowed,24,467,5.1
+K23,Required,323,358,90.2

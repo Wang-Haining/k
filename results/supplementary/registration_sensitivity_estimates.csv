@@ -1,0 +1,29 @@
+"analysis","mechanism","outcome","spec","estimate","lo","hi","se","mde80","n","na_reps"
+"historical DID","K23","ktrial_timely","year FE + IC",19.2,12,26.1,3.57,10,1847,0
+"historical DID","K23","primary_timely","year FE + IC",-2.6,-11.3,6.7,4.56,12.8,1847,0
+"historical DID","K23","nih_new_trial","year FE + IC",-1.3,-7.2,4.7,3.07,8.6,1847,0
+"historical DID","K23","nih_new_trial_own_grant","year FE + IC",-0.4,-6,5.1,2.79,7.8,1847,0
+"historical DID","K23","new_trial_due_results12","awardees with a new trial due for reporting",0.1,-28.8,29.1,14.36,40.2,284,0
+"main RD","K23","ktrial_timely","unadjusted",73.8,68.8,78.5,2.51,7,825,0
+"main RD","K23","primary_timely","unadjusted",13.7,6.9,20.6,3.45,9.7,825,0
+"main RD","K23","nih_new_trial","unadjusted",7.9,3.6,12.1,2.24,6.3,825,0
+"main RD","K23","nih_new_trial_own_grant","unadjusted",6.7,3,10.7,2.01,5.6,825,0
+"main RD","K23","new_trial_due_results12","awardees with a new trial due for reporting",-7.4,-28.5,13,11.12,31.1,101,0
+"historical DID","K08","ktrial_timely","year FE + IC",-1.3,-32.6,40.6,18.2,50.9,1515,0
+"historical DID","K08","primary_timely","year FE + IC",18.7,-5.2,40.6,11.67,32.7,1515,0
+"historical DID","K08","nih_new_trial","year FE + IC",16.6,6,29.1,5.82,16.3,1515,0
+"historical DID","K08","nih_new_trial_own_grant","year FE + IC",12.6,3.2,23.5,5.27,14.8,1515,0
+"historical DID","K08","new_trial_due_results12","awardees with a new trial due for reporting",63.9,-22.7,175.5,49.76,139.3,55,459
+"main RD","K08","ktrial_timely","unadjusted",61.7,48.5,76.4,7.11,19.9,675,0
+"main RD","K08","primary_timely","unadjusted",50.4,36.8,65.9,7.81,21.9,675,0
+"main RD","K08","nih_new_trial","unadjusted",18.6,8.2,31.9,5.99,16.8,675,0
+"main RD","K08","nih_new_trial_own_grant","unadjusted",11.7,2.9,22.4,5.02,14,675,0
+"main RD","K08","new_trial_due_results12","awardees with a new trial due for reporting",28.3,-20.8,66.7,22.05,61.8,20,0
+"main RD","K23","primary_main","adjusted for prior non-K trial PI + FY + IC",12.2,4.9,18.7,3.51,9.8,825,0
+"main RD","K23","primary_main","awardees with no prior non-K trial",12.9,5.3,19,3.55,9.9,705,0
+"historical DID","K23","primary","adjusted for prior non-K trial PI",-3.4,-11.8,5.6,4.47,12.5,1847,0
+"historical DID","K23","primary","awardees with no prior non-K trial",-1.6,-10.3,7.5,4.47,12.5,1593,0
+"main RD","K08","primary_main","adjusted for prior non-K trial PI + FY + IC",38.1,22.7,53.3,7.76,21.7,675,0
+"main RD","K08","primary_main","awardees with no prior non-K trial",43.9,25.1,64.1,9.99,28,634,0
+"historical DID","K08","primary","adjusted for prior non-K trial PI",15.6,-7.9,38.9,11.81,33.1,1515,0
+"historical DID","K08","primary","awardees with no prior non-K trial",13.1,-11.8,36.1,12.31,34.5,1440,0
